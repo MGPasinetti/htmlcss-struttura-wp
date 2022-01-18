@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.header {
+    width: 85%;
+    height: 4em;
+    background-color: #E579E6;
+    margin: 1em auto;
+}
+
+.main {
+    width: 85%;
+    height: 20em;
+    background-color: #E1D67A;
+    margin: 1em auto;
+}
+
