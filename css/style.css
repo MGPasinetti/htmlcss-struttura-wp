@@ -51,7 +51,7 @@
 }
 
 .section-main {
-    margin: 1rem 0;
+    margin: .5rem 0;
     padding-bottom: 1rem;
 }
 
@@ -83,22 +83,22 @@
     background-color: #E579E6;
     width: 85%;
     height: 4em;
-    margin: 1em auto; */
-}
+    margin: 1em auto; 
+}*/
 
 /* main {
     background-color: #E1D67A;
     width: 85%;
     height: 20em;
-    margin: 1em auto; */
-}
+    margin: 1em auto; 
+}*/
 
 /* section {
     background-color: #0285FB;
     width: 85%;
     height: 25em;
-    margin: 1em auto; */
-}
+    margin: 1em auto; 
+}*/
 
 /* .clearfix::after {
     content: "";
